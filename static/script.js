@@ -2,6 +2,7 @@
 const studentAccounts = [
   { id: "2023001", name: "김민수", googleId: "kimms@school.kr", password: "abc123!" },
   { id: "2023002", name: "이수정", googleId: "leesj@school.kr", password: "pass2023" },
+  { id: "2023004", name: "김유정", googleId: "leessj@school.kr", password: "pass2023" },
   { id: "2023003", name: "박진영", googleId: "parkjy@school.kr", password: "pw456!" }
 ];
 
